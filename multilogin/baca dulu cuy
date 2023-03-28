@@ -1,0 +1,17 @@
+buat database sesuai dengan keinginan lu bedua ok
+
+truss untuk table isi sesuai nama level yang ada di file cek_login
+
+yg di ganti itu cuma nama level di cek_login
+
+file cek_login bisa di gabung di funcion.php
+
+yang include di ganti jadi require
+
+untuk select table ada di file cek_login di line 14 (baca dengan teliti baru ganti nama table sesuai dengan nama table mu)
+
+untuk nama file bisa di ubah tapi harus teliti dan hati2 biar tidak ada error ok?
+
+ngerjainnya harus hati dan teliti ok?
+
+semangat william, dedi, gw jg.
