@@ -1,0 +1,50 @@
+body{
+	font-family: sans-serif;
+	background: goldenrod;
+	list-style: none;
+	text-align: center;
+}
+ 
+h2{
+	text-align: center;
+
+	/*ketebalan font*/
+	font-weight: 300;
+	color: palegoldenrod;
+}
+ 
+.kotak-login{
+	width: 350px;
+	background: darkgoldenrod;
+	/*meletakkan form ke tengah*/
+	margin: 100px auto;
+	padding: 30px 20px;
+}
+ 
+.text{
+	text-decoration: none;
+	text-align: center;
+	font-size: 20px;
+	color: cyan;
+}
+ 
+.box-form{
+	/*membuat lebar form penuh*/
+	box-sizing : border-box;
+	width: 100%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+	background: goldenrod;
+}
+ 
+.button{
+        position: relative;
+        background: goldenrod;
+        text-decoration:none;
+        border:1px solid darkred;
+        display: block;
+        padding: 10px 152px;
+        padding-bottom: 10px;
+        color: cyan;
+      } 

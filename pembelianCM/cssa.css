@@ -1,0 +1,118 @@
+
+/*  ini body  */
+
+body {
+	margin : 0;
+	font-family: sans-serif;
+}
+
+
+/*  HEADER */
+
+			.header {
+				height : 116px;
+				background: rgb(34,193,195);
+        		background: linear-gradient(90deg, rgba(34,193,195,1) 0%, rgba(240,45,253,1) 100%);
+				}
+
+			.header-logo {
+				float : left;
+				color : red;
+				padding : 7px 25px;
+				font-size:30px;
+				}
+
+/*  ini list  */
+
+			li{
+				list-style : none;
+				padding: 40px 25px;
+				color:cyan;
+				float:right;
+				}
+
+			.header-list li{
+				padding:35px 25px;
+				float:left;
+				}
+
+			.header-list ul{
+				padding-bottom:0px;
+				float:right;
+				}
+
+/*  ini main  */
+
+			.main{
+				height : 800px;
+				background : linear-gradient(#4AC8D9,#54FAFF,#FF4BEE);
+				padding-top: 1px;	
+				margin-bottom: 1px;
+				padding-bottom: 100px;
+				}
+
+/*  ini contents  */
+
+			.contents{
+				height:200px;
+				margin-bottom: 350px;
+				margin-top: 1px;
+				}
+
+/*  ini container  */
+
+			.copy-container h1{
+				font-size:50px;
+				}
+
+/*  ini footer  */
+
+			.footer{
+				background: rgb(34,193,195);
+        		background: linear-gradient(90deg, rgba(34,193,195,1) 0%, rgba(240,45,253,1) 100%);
+				color:red;
+				height : 140px;
+				margin-top: 200px;
+				padding-bottom: 20px;
+				}
+
+			.footer-logo{
+				float:left;
+				font-size:32px;
+				padding: 15px 30px;
+				}
+
+			.footer-list{
+				float:right;
+				}
+
+/*  	Buttom		*/
+
+			.button{
+				position: relative;
+				background-color: cyan;
+				text-decoration:none;
+				border:1px solid darkred;
+				display: block;
+				padding: 10px 50px;
+				padding-bottom: 10px;
+			}
+
+/*  ini footer li dan ul  */
+
+			li{
+				list-style : none;
+				padding: 40px 25px;
+				color:cyan;
+				float:right;
+				}
+
+			.footer-list li{
+				padding:35px 25px;
+				float:left;
+				}
+
+			.footer-list ul{
+				padding-bottom:0px;
+				float:right;
+				}
